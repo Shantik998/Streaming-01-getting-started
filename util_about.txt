@@ -2,18 +2,18 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2023-08-25 at 06:31 PM
+ Date and Time: 2023-08-25 at 07:35 PM
  Operating System: posix Darwin 22.4.0
  System Architecture: 64bit
  Number of CPUs: 12
  Machine Type: x86_64
  Python Version: 3.10.9
- Python Build Date and Compiler: v3.10.9:1dd9be6584 with Dec  6 2022 14:37:36
+ Python Build Date and Compiler: main with Mar  1 2023 12:33:47
  Python Implementation: CPython
  Active pip environment:   None
  Active conda environment: None
- Path to Interpreter:         /usr/local/bin/python3
- Path to virtual environment: /Library/Frameworks/Python.framework/Versions/3.10
+ Path to Interpreter:         /Users/shantikandel/anaconda3/bin/python
+ Path to virtual environment: /Users/shantikandel/anaconda3
  Current Working Directory:   /Users/shantikandel/https-::github.com:Shantik998:streaming-01-getting-started/streaming-01-getting-started
  Path to source directory:    /Users/shantikandel/https-::github.com:Shantik998:streaming-01-getting-started/streaming-01-getting-started
  Path to script file:         /Users/shantikandel/https-::github.com:Shantik998:streaming-01-getting-started/streaming-01-getting-started/util_about.py
