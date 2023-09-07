@@ -126,3 +126,6 @@ Do a search on the extension to learn more. VS Code suggestions are usually help
 
 1. For more information about Git in VS Code, see [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview).
 1. For more information about editing Markdown in VS Code, see [Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown).
+
+## Summary 
+Streaming data involves the continuous transmission of real-time or near-real-time data from diverse sources to a central destination for immediate processing and analysis. This data, often structured into streams, can originate from sensors, devices, applications, or online platforms and is ingested into streaming systems for real-time processing, including filtering, aggregation, and event-based transformations. Stream processing frameworks and platforms, such as Apache Kafka and Flink, are utilized to manage and analyze the data, making it valuable for applications like real-time monitoring, predictive analytics, and immediate decision-making, while also presenting challenges related to data velocity, consistency, and scalability.
